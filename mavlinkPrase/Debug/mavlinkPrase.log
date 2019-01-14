@@ -1,0 +1,18 @@
+﻿  mavlinkPrase.cpp
+e:\dxx\source\扑旋翼实验\mavlinkprase\mavlinkprase\mavlink\mavlink_avoid_errors.h(13): warning C4068: 未知的杂注
+e:\dxx\source\扑旋翼实验\mavlinkprase\mavlinkprase\mavlink\mavlink_conversions.h(43): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+e:\dxx\source\扑旋翼实验\mavlinkprase\mavlinkprase\mavlink\mavlink_conversions.h(44): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+e:\dxx\source\扑旋翼实验\mavlinkprase\mavlinkprase\mavlink\mavlink_conversions.h(45): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+e:\dxx\source\扑旋翼实验\mavlinkprase\mavlinkprase\mavlink\mavlink_conversions.h(46): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+e:\dxx\source\扑旋翼实验\mavlinkprase\mavlinkprase\mavlink\mavlink_conversions.h(47): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+e:\dxx\source\扑旋翼实验\mavlinkprase\mavlinkprase\mavlink\mavlink_conversions.h(48): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+e:\dxx\source\扑旋翼实验\mavlinkprase\mavlinkprase\mavlink\mavlink_conversions.h(49): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+e:\dxx\source\扑旋翼实验\mavlinkprase\mavlinkprase\mavlink\mavlink_conversions.h(50): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+e:\dxx\source\扑旋翼实验\mavlinkprase\mavlinkprase\mavlink\mavlink_conversions.h(51): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+e:\dxx\source\扑旋翼实验\mavlinkprase\mavlinkprase\mavlinkprase.cpp(25): warning C4018: “<”: 有符号/无符号不匹配
+e:\dxx\source\扑旋翼实验\mavlinkprase\mavlinkprase\mavlinkprase.cpp(86): warning C4018: “<”: 有符号/无符号不匹配
+e:\dxx\source\扑旋翼实验\mavlinkprase\mavlinkprase\mavlinkprase.cpp(102): warning C4018: “<”: 有符号/无符号不匹配
+e:\dxx\source\扑旋翼实验\mavlinkprase\mavlinkprase\mavlinkprase.cpp(145): warning C4018: “<”: 有符号/无符号不匹配
+e:\dxx\source\扑旋翼实验\mavlinkprase\mavlinkprase\mavlinkprase.cpp(140): warning C4101: “chan”: 未引用的局部变量
+  mavlinkPrase.vcxproj -> E:\DXX\Source\扑旋翼实验\mavlinkPrase\Debug\mavlinkPrase.exe
+  mavlinkPrase.vcxproj -> E:\DXX\Source\扑旋翼实验\mavlinkPrase\Debug\mavlinkPrase.pdb (Full PDB)
